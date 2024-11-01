@@ -1,0 +1,372 @@
+.post_like_dislike_header {
+    text-align: left;
+    margin-top: 0px;
+    padding: 20px;
+    font-weight: 500;
+    font-size: 17px;
+    background: white;
+    margin-bottom: 34px;
+    color: #2196F3;
+    box-shadow: 0px -3px 28px 0px #cccccc;
+}
+.post_like_dislike_header span {
+    float: right;
+    font-size: 14px;
+    font-weight: normal;
+    color: #03a9f4;
+}
+.post_like_dislike_header a {
+    background: #03A9F4;
+    padding: 7px 23px;
+    color: white;
+    text-decoration: none;
+    border-radius: 16px;
+    text-align: center;
+    font-size: 13px;
+    margin-left: 10px;
+    box-shadow: 0px 2px 10px 1px #d7d7d7;
+    color: white;
+}
+.wooLiveSalenav-tab{
+        border: 0px;
+    background: white;
+}
+.wooLiveSalenav-tabnav-tab-wrapper  a {
+    box-shadow: 1px 3px 3px 0px #e4e4e4;
+}
+.wooLiveSalenav-tabnav-tab-wrapper .nav-tab {
+    border: 0px;
+    background: white;
+}
+.woo-live-saleTabs{
+      width: 100%;
+    background: white;
+    padding: 20px;
+    padding-right: 0px;
+    display: block;
+    max-width: 900px;
+    margin: auto;
+    margin-top: 52px;
+    clear: both;
+}
+label{
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    font-weight: normal;
+    color: #333;
+
+}
+.footer_save_btn{
+        border: none;
+    min-width: 140px;
+    min-height: 30px;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    cursor: pointer;
+    display: block;
+    float: right;
+    margin-right: 47px;
+    margin-top: 4px;
+    border-radius: 4px;
+    background: #0083ff;
+    padding: 8px;
+}
+/* ======================= EMBED YOUTUBE VIDEO ===================== */
+
+/* BASIC SETTING */
+/*========================= ADMIN DASHBOARD HEADER =================== */
+.dashboard_header{
+
+        width: 100%;
+    background: #f7f7f7;
+    padding: 20px;
+    padding-right: 0px;
+    margin-top: 24px;
+    position: relative;
+    display: block;
+    min-height: 60px;
+    max-width: 900px;
+    margin: auto;
+}
+.dash_logo{
+    display: inline-block;
+    width: 23%;
+    float: left;
+    min-width: 221px;
+}
+.dash_logo img{
+
+}
+.dash_nav{
+
+}
+ #save_setting{
+       border: none;
+    min-width: 140px;
+    min-height: 30px;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    cursor: pointer;
+    display: block;
+    float: right;
+    margin-right: 47px;
+    margin-top: 4px;
+    border-radius: 4px;
+    background: #0083ff;
+    padding: 8px;
+}
+ #save_setting:active, #save_setting:hover ,  #save_setting:focus{
+    outline: none;
+    opacity: 0.9;
+
+}
+/* ========================= PLUGIN SETTING NAV ======================== */
+.wooLiveSalenav-tabnav-tab-wrapper .nav-tab{
+      margin: 0;
+    padding: 12px 12px;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+    font-style: normal;
+    text-transform: uppercase;
+    background: #0a3d62;
+    color: white;
+    text-align: center;
+    min-width: 159.8px;
+}
+.wooLiveSalenav-tabnav-tab-wrapper .nav-tab:hover{
+    opacity: 0.9;
+}
+.wooLiveSalenav-tabnav-tab-wrapper .nav-tab-active{
+      box-shadow: 1px 3px 3px 0px #e4e4e4;
+    background-color: white;
+    color: #0083ff;
+    font-weight: 500;
+}
+.wooLiveSalenav-tabnav-tab-wrapper .nav-tab-active:active, .wooLiveSalenav-tabnav-tab-wrapper .nav-tab-active:focus{
+    color:#0083ff;
+}
+.vid_gallery_nav a i{
+    font-size: 18px;
+    margin-right: 5px;
+}
+.vid_gallery_nav{
+     width: 100%;
+    max-width: 919px;
+    display: block;
+    margin: auto;
+    position: relative;
+}
+
+/* ======================== GENERAL SETTING ======================== */
+.general_set{
+    padding: 0px 30px;   
+}
+.pdg{
+padding-top: 10px;
+    border-bottom: 1px solid #0a3d6226;
+    margin-bottom: 20px;
+}
+.title{
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    font-weight: 500;
+    display: block;
+}
+.select_layout{
+        width: 160px !important;
+    margin-top: 20px;
+    border-color: #0083ff !important;
+    border-width: 1px;
+    font-size: 14px !important;
+    font-weight: 400;
+    color: #333 !important;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+}
+.select_layout:hover{
+border-color: #0083ff !important;
+}
+.alert{
+
+}
+
+
+/* ======================== VIDEO PER PAGE ======================== */
+.vid_on_page{
+    margin-top: 24px;
+    border-color: #0083ff !important;
+}
+.check_btn_layout{
+    background: #0083ff;
+    padding: 5px 10px;
+    width: 70px;
+    display: block;
+    text-align: center;
+    color: white;
+    border-radius: 4px;
+    margin: 10px 0px;
+    margin-top: 24px;
+}
+.check_btn_layout label{
+    color: white;
+}
+.pagination_wrap,.title_wrap,.desc_wrap,.plyr_control_wrap,.plyr_autoplay_wrap,.plyr_autoplay_next_wrap
+,.plyr_brand_logo_wrap,.plyr_views_wrap,.yt_field_tracking_wrap{
+    display: inline-flex;
+}
+.ena_pagination,.ena_title,.ena_desc,.ena_control,.ena_autoplay,.ena_autoplay_next,.ena_brand_logo,.ena_views
+,.ena_tracking{
+margin-right: 40px;
+}
+.dis_pagination{
+
+}
+.footer_save_btn{
+    float: none !important;
+    display: block;
+}
+
+
+/*==================== TAB  2 ============================= */
+/* =================== VIDEO PLAYER ============================= */
+.mrg{
+    margin-top: 24px;
+}
+input{
+    border-color: #0083ff !important;
+    outline-color: #0083ff !important;
+}
+/*==================== TAB  3 ============================= */
+/* =================== SELECT LAYOUT ============================= */
+.select_theme_style_wrap,.select_pagi_style_wrap{
+    display: inline-flex;
+    width: 100%;
+    padding: 10px 0px;
+
+}
+.select_theme,.select_pagi{
+margin-right: 20px;
+}
+.reference_style{
+     margin-top: 24px;
+    max-width: 200px;
+}
+.theme_style_wrap,.pagi_style_wrap{
+  max-width: 300px;
+    padding: 10px 22px;
+    display: block;
+    text-align: center;
+    border-radius: 4px;
+    margin-bottom: 28px;
+    margin-top: 24px;
+    color: #333;
+    cursor: pointer;
+    background: #ecebeb;
+    min-height: 212px;
+}
+.pagi_style_wrap{
+min-height: 200px;
+}
+.default_theme_selected{
+        background: #0083ff;
+        color: white;
+}
+.default_pagi_selected{
+        background: #0083ff;
+        color: white;
+}
+/* ======================== PAGINATION COLOR SELECTION ================== ========= */
+.select_color{
+      background: #ecebeb;
+    padding: 10px;
+    margin-top: 15px;
+    display: block;
+    max-width: 120px;
+    border-radius: 4px;
+    font-size: 16px;
+    text-align: center;
+}
+
+/* ========================== VIDEO EFFECT BOX =========================== */
+.main_video_effect_wrap{
+width: 100%;
+    display: inline-flex;
+}
+.vid_effect_wrap{
+margin-top: 24px;
+    display: block;
+    margin-bottom: 24px;
+    background: #ecebeb;
+    max-width: 200px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 4px;
+    color: #333;
+        margin-right: 10px;
+        text-transform: uppercase;
+}
+
+.selected_effect_wrap{
+  background: #0083ff;
+   color: white;  
+}
+.float_effect_wrap{
+     -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: transform, opacity;
+  transition-property: transform, opacity;
+}
+.float_effect_wrap:hover{
+      transform: translateY(-5px);
+}
+.grow_effect_wrap{
+transition: all .2s ease-in-out;
+}
+.grow_effect_wrap:hover{
+      transform: scale(1.2);
+}
+.rotate_effect_wrap{
+transition: all .2s ease-in-out;
+}
+.rotate_effect_wrap:hover{
+    transform: rotate(5deg);
+}
+.sink_effect_wrap{
+-webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: transform, opacity;
+  transition-property: transform, opacity;
+}
+.sink_effect_wrap:hover{
+      transform: translateY(5px);
+}
+.top-margin{
+    margin-top: 10px;
+}
+
+
+/* ================== YOUTUBE API KEY ===================== */
+.yt_api_key{
+    margin-top: 24px;
+}
+.buy-pro{
+        color: #11a854;
+}
+
+.yt_api_key{
+min-width: 400px;
+}
+.red-color{
+    color: red;
+}
+.red-color a{
+    color: #01ab01;
+}
